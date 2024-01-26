@@ -1,4 +1,4 @@
-# Ft_containers
+# ft_containers
 "C++ containers, easy mode"
 
 The standard C++ containers have all a specific usage.
