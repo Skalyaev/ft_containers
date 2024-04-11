@@ -1,16 +1,15 @@
 # ft_containers
-> *C++ containers, easy mode*
-
-*The standard C++ containers have all a specific usage.*
-*To make sure you understand them, let’s re-implement them!*
-
-## Objectives
-In this project, you will implement a few container types of the C++ standard template library.
-You have to take the structure of each standard container as reference.
-If a part of the Orthodox Canonical form is missing in it, do not implement it.
-As a reminder, you have to comply with the C++98 standard, so any later feature of the containers MUST NOT be implemented, but every C++98 feature (even deprecated ones) is expected.
+Dans ce projet, vous allez implémenter quelques conteneurs C++ de la bibliothèque standard (Standard Template Library).
+Vous devez vous baser sur la structure des conteneurs originaux. Si une partie de la forme canonique de Coplien n'y est pas présente, ne la faites pas. Rappelez-vous : vous devez vous conformer au standard C++98.
 
 ## Checklist
 - [x] ft::vector
 - [x] ft::stack
 - [x] ft::map
+- [x] std::pair
+- [x] std::make_pair
+- [x] std::iterators_traits
+- [x] std::reverse_iterator
+- [x] std::enable_if
+- [x] std::is_integral
+- [x] std::equal
