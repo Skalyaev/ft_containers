@@ -14,3 +14,4 @@
 - [x] **`std::enable_if`** Technique de métaprogrammation pour le contrôle de la sélection des surcharges de fonction basée sur des traits de type
 - [x] **`std::is_integral`** Trait de type qui identifie si un type est un type entier intégral
 - [x] **`std::equal`** Fonction algorithmique qui détermine si deux plages sont égales
+
